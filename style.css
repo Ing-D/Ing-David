@@ -506,4 +506,7 @@ input, textarea{
     responsive-text{
         font-size: 11px !important;
     }
+    #scroll-up {
+        display: none !important; 
+    }
 }
