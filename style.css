@@ -500,5 +500,10 @@ input, textarea{
     .img-hobbie{
         height: 250px !important;
     }
-
+    .responsive-text-h{
+        font-size: 15px !important;
+    }
+    responsive-text{
+        font-size: 11px !important;
+    }
 }
