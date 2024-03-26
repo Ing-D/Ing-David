@@ -55,10 +55,10 @@ function downloadPDF() {
     document.body.removeChild(link);
 }
 function downloadPDFes() {
-    const url = './assets/CV-Dayana-es.pdf.pdf';
+    const url = './assets/CV-Ing-David.pdf';
     const link = document.createElement('a');
     link.href = url;
-    link.setAttribute('download', 'CV-Dayana-es.pdf');
+    link.setAttribute('download', 'CV-Ing-David.pdf');
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
