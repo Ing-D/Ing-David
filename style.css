@@ -420,7 +420,7 @@ input, textarea{
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     grid-gap: 20px;
 }
-@media (max-width: 967px) {
+@media (max-width: 867px) {
     .custom-navbar {
         position: fixed;
         width: 100%;
